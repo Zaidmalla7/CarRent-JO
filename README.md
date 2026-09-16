@@ -93,3 +93,9 @@
 *(إدارة حسابات المستخدمين وإنشاء حسابات المشرفين)*
 ![Users Authorization]
 <img width="1914" height="955" alt="Screenshot 2026-09-17 000047" src="https://github.com/user-attachments/assets/b9811f87-b59a-4163-bec7-59f4332b9cef" />
+
+
+## 📬 Contact & Links
+* **Developer:** Zaid Yasser Mallah
+* **LinkedIn:** [Zaid Mallah](https://www.linkedin.com/in/zaidyasser)
+* **Email:** zaidalmallah444@gmail.com
